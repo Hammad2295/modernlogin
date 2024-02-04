@@ -1,5 +1,31 @@
-# MODERN LOGIN UI x FLUTTER
+# Modern UI
 
-Watch tutorial here: https://youtu.be/Dh-cTQJgM-Q
+A simple and elegant design of login page.
 
-![72692840-4960-4603-B21E-3BC8442AA19F](https://user-images.githubusercontent.com/29016489/206952739-29d2403c-c26b-472f-9f4d-fdc0e1458326.JPG)
+
+## Screenshots
+
+![App Screenshot](https://github.com/Hammad2295/modernlogin/blob/master/demo-ss.JPG?raw=true)
+
+
+
+## Deployment & Run
+
+To deploy this project first clean it by running:
+
+```bash
+  flutter clean
+```
+
+To rebuild project run:
+
+```bash
+  flutter pub get
+```
+
+To launch application run:
+
+```bash
+  flutter run
+```
+
